@@ -111,7 +111,7 @@ public class GuiOne implements ActionListener {
         String name = input.nextLine();
         createAiDogLabel.setText("Your dogs name is: " + name);
 
-        throw new UnsupportedOperationException("Unimplemented method 'actionPerformed'");
+        //throw new UnsupportedOperationException("Unimplemented method 'actionPerformed'");
     }
 
     public void actionButton() {

@@ -35,7 +35,7 @@ public class Gui implements ActionListener {
 
         frame = new JFrame();
         frameOne = new JFrame("Kami", null);
-        label = new JLabel("What animal would you ike to create?");
+        label = new JLabel("What animal would you like to create?");
         llabel = new JLabel("This should work");
         textEmail = new JTextField(20);
         button = new JButton("Build Dog");
